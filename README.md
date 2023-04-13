@@ -32,7 +32,7 @@ class NumbersController < ApplicationController
 
 ## Part 1: Build `/lottery/unlucky`
 
-Implement the URL `/lottery/lucky`.
+Implement the URL `/lottery/unlucky`.
 
 See [the target](https://fortune-teller.matchthetarget.com) for behavior.
 
